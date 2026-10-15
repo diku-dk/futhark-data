@@ -1,0 +1,6 @@
+docs
+*.c
+*.actual
+*.expected
+*.counterexample
+*.prop_result
